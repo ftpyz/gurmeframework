@@ -1,0 +1,22 @@
+{
+    "name": "ftpyz/gurmeframework",
+    "description": "Wordpress, Self, Opencart, Magento icin model router controller",
+    "type": "library",
+    "version": "0.1",
+    "authors": [
+        {
+            "name": "Fuat POYRAZ",
+            "email": "fuat@gurmesoft.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    "psr-4": {
+      "GurmeFramework\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  }
+    
+}

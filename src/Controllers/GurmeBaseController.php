@@ -1,5 +1,5 @@
 <?php
-namespace Controllers\GurmeBaseController;
+namespace GurmeFramework\Controllers;
 
 use PhpRestfulApiResponse\Response;
 

@@ -1,5 +1,5 @@
 {
-    "name": "ftpyz/gurmeframework",
+    "name": "ftpyz/GurmeFramework",
     "description": "Wordpress, Self, Opencart, Magento icin model router controller",
     "type": "library",
     "version": "0.1",
@@ -15,7 +15,7 @@
     },
     "autoload": {
       "psr-4": {
-        "gurmeframework\\": "src/"
+        "GurmeFramework\\": "src/"
       }
     }
     

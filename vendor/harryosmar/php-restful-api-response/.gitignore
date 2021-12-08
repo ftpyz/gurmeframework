@@ -1,0 +1,4 @@
+/vendor
+/.idea
+reports/
+coverage.clover

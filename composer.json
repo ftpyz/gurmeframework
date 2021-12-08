@@ -2,7 +2,7 @@
     "name": "ftpyz/gurmeframework",
     "description": "Wordpress, Self, Opencart, Magento icin model router controller",
     "type": "library",
-    "version": "0.1",
+    "version": "dev-master",
     "authors": [
         {
             "name": "Fuat POYRAZ",

@@ -1,9 +1,9 @@
 <?php
-namespace GurmeFramework\Controllers;
+namespace GurmeFramework\Base;
 
 use PhpRestfulApiResponse\Response;
 
-class GurmeBaseController{
+class BaseController{
 
     public function output($data,$status="created",$code=200){
         $response=new Response();
